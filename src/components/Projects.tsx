@@ -30,12 +30,14 @@ function Projects() {
                     <div className="card">
                         <div className="project-item">
                             <h3>
-                                DAMAGE CALCULATOR FOR AN ONLINE GAME (LOST ARK ONLINE) -
+                                DAMAGE CALCULATOR FOR AN ONLINE GAME (LOST ARK ONLINE) -&nbsp;
                                 <a 
                                     style={{color:"rgb(16, 34, 70)"}} 
-                                    href="https://www.trixion-calculator.com/" target="_blank"
+                                    href="https://www.trixion-calculator.com/" 
+                                    target="_blank"
+                                    rel="noopener noreferrer"
                                 >
-                                    &nbsp;trixion-calculator.com
+                                    trixion-calculator.com
                                 </a> 
                             
                             </h3>
