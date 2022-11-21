@@ -33,7 +33,7 @@ function Projects() {
                                 DAMAGE CALCULATOR FOR AN ONLINE GAME (LOST ARK ONLINE) -
                                 <a 
                                     style={{color:"rgb(16, 34, 70)"}} 
-                                    href="https://www.trixion-calculator.com/"
+                                    href="https://www.trixion-calculator.com/" target="_blank"
                                 >
                                     &nbsp;trixion-calculator.com
                                 </a> 

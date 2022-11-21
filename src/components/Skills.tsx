@@ -24,7 +24,7 @@ function Skills() {
                     <div className="card">
                         <div className="skill">
                             <h3>DATABASES</h3>
-                            <h3 className="skill-names">Oracle, SQL Server, SQlite, MongoDB</h3>
+                            <h3 className="skill-names">Oracle, SQL Server, SQLite, MongoDB</h3>
                         </div>
                     </div>
 

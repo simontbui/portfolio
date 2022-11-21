@@ -19,7 +19,7 @@ function Education() {
 
                     <div className="card">
                         <div className="school">
-                            <h3>B.S. Pharmaceutical Sciences</h3>
+                            <h3>B.S. PHARMACEUTICAL SCIENCES</h3>
                             <h3 className="school-name">UNIVERSITY OF CALIFORNIA, IRVINE</h3>
                         </div>
                         <div className="dates">
