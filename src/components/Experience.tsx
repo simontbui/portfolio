@@ -21,7 +21,8 @@ function Experience() {
                                     <li>Modified SQL stored procedures to enhance existing vaccination data pipelines</li>
                                     <li>QA tested database procedure changes by analyzing data flow, API calls, and JSON payloads</li>
                                     <li>Leveraged regular expressions to automate error handling of data transmission to state government agencies</li>
-                                    <li>Acted as a technical liaison between client support, project managers, software engineers, and data engineers</li>
+                                    <li>Validated data to ensure seamless REST API integration across various third party vendors</li>
+                                    <li>Acted as a technical liaison between data engineers, software engineers, project managers, and non-technical staff</li>
                                     <li>Aggregated data from Oracle and SQL Server databases for third parties and inter-departmental reporting</li>
                                 </ul>
                             </div>
@@ -40,7 +41,7 @@ function Experience() {
                             
                             <div className="job-description">
                                 <ul>
-                                    <li>Created a front-end UI with Python and Flask that pulls data from a SQLite database upon receiving POST requests</li>
+                                    <li>Created a front-end UI with Python and Flask that processes HTTP requests to pull and analyze cellular networking data</li>
                                     <li>Aggregated data based on user selections to visualize the last 7 days of packet data, allowing engineers to see anomalous packets as a signal for intervention</li>
                                     <li>Provided well-documented and unit tested code for the client to modify for future infrastructural changes</li>
                                 </ul>
