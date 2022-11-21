@@ -6,7 +6,7 @@ function Navbar() {
     return (
         <div className="nav-div">
             <nav>
-                <img src={LI_pic} alt="Broken"></img>
+                <img className="profile-pic" src={LI_pic} alt="Broken"></img>
                 <ul className="nav-ul">
                     <li className="nav-item">
                         <a className="nav-a" href="#about">ABOUT</a>

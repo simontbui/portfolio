@@ -39,12 +39,15 @@ function Projects() {
                                 >
                                     trixion-calculator.com
                                 </a> 
-                            
                             </h3>
                             <h3 className="tech-used">TECHNOLOGIES: JavaScript, React, HTML, CSS</h3>
                             <p className="project-description">
-                                Online games can be expensive to play. I spent some time trying out a new game earlier in 2022 where many players were spending hundreds to thousands of dollars within the first month. I've met some that spent over 5 figures buying items that were often a poor choice. Many of my friends would frequently ask me to calculate which combinations of items would maximize the damage their character would do. Instead of doing this manually everytime, I created a website that automates the math for you! If you had the option of buying a $100 set of items that increased your damage by 100%, you might think twice before buying a $200 set of items that increased your damage by 100.1%. Spend wisely!
+                                Online games can be expensive to play. I spent some time trying out a new game earlier in 2022 where many players were spending hundreds to thousands of dollars within the first month. I've met some that spent over 5 figures buying items that were often a poor choice. Many of my friends would frequently ask me to calculate which combinations of items would maximize the damage their character would do. Instead of doing this manually everytime, I created a website that automates the math for you!
                             </p>
+                            <p className="project-description">
+                                Consider the scenario in the demo screenshot below. Let's say you have two options where option #1 costed you $200 and option #2 costed you $201. You might find it worthwhile to spend that extra $1 on option #2 if you found out that option #2 made your character 9% better.
+                            </p>
+                            <img className="project-img" src="/trixioncalculator.JPG" alt="Broken"></img>
                         </div>
                     </div>
                 </div>
