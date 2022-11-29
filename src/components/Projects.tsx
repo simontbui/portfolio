@@ -19,7 +19,7 @@ function Projects() {
 
                     <div className="card">
                         <div className="project-item">
-                            <h3>MEETING SCHEDULE TRACKER</h3>
+                            <h3>MEETING SCHEDULE TRACKER (IN PROGRESS)</h3>
                             <h3 className="tech-used">TECHNOLOGIES: TypeScript, Node.js, Express, MongoDB (NoSQL), React, HTML, CSS</h3>
                             <p className="project-description">
                                 Ever felt frustrated trying to schedule a meeting that fits everyone's availabilities? This is an issue I've often run into. I love solutions such as the calendar interface on Microsoft Teams when it comes to displaying and scheduling meetings. The caveat is that it's tedious to schedule a meeting that lines up with the availabilities of 5 other people in 3 different timezones. I created an app that allows a user to create, schedule, and view others' meeting times. Now, if you want to schedule a meeting on Wednesday with Alice and John, you can check their schedule on the calendar as well.
