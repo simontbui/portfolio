@@ -23,7 +23,7 @@ function Experience() {
                                     <li>Leveraged regular expressions to automate error handling of data transmission to state government agencies</li>
                                     <li>Modified XML configuration files to test and validate data transfer to and from 3rd party REST APIs</li>
                                     <li>Acted as a technical liaison between data engineers, software engineers, project managers, and non-technical staff</li>
-                                    <li>Aggregated data from Oracle and SQL Server databases for third parties and inter-departmental reporting</li>
+                                    <li>Aggregated data from Oracle and SQL Server databases for third parties and interdepartmental reporting</li>
                                 </ul>
                             </div>
                         </div>
