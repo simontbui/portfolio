@@ -10,25 +10,56 @@ function Experience() {
                     <div className="card">
                         <div className="job">
                             <div className="job-title">
-                                <h3>DATA ANALYST</h3>
+                                <h3>SOFTWARE ENGINEER</h3>
                                 <h3 className="companies">TRANSACTION DATA SYSTEMS</h3>
                             </div>
                             
                             <div className="job-description">
                                 <ul>
-                                    <li>Verified flat file data to ensure data integrity and compatibility with database procedures</li>
-                                    <li>Utilized SQL to identify data related issues that resulted in bugs on clients’ UI or services</li>
-                                    <li>Recommended changes SQL stored procedures to enhance existing vaccination data pipelines</li>
-                                    <li>QA tested database procedure changes by analyzing data flow, API calls, and JSON payloads</li>
-                                    <li>Leveraged regular expressions to automate error handling of data transmission to state government agencies</li>
-                                    <li>Modified XML configuration files to test and validate data transfer to and from 3rd party REST APIs</li>
-                                    <li>Acted as a technical liaison between data engineers, software engineers, project managers, and non-technical staff</li>
-                                    <li>Aggregated data from Oracle and SQL Server databases for third parties and interdepartmental reporting</li>
+                                    <li>
+                                        Maintained and developed a .NET(C#) product responsible for ingesting, processing, and transmitting vaccination data to 
+                                        over 50 state government agencies
+                                    </li>
+                                    <li>
+                                        Debugged and implemented a fix for a production issue affecting over 10% new user accounts per day
+                                    </li>
+                                    <li>
+                                        Improved the maintainability of frontend React code by replacing hard coded data with GraphQL queries
+                                    </li>
                                 </ul>
                             </div>
                         </div>
                         <div className="dates">
-                                <span>October 2021 - Present</span>
+                                <span>February 2023 - Present</span>
+                        </div>
+                    </div>
+
+                    <div className="card">
+                        <div className="job">
+                            <div className="job-title">
+                                <h3>SOFTWARE SUPPORT ENGINEER</h3>
+                                <h3 className="companies">TRANSACTION DATA SYSTEMS</h3>
+                            </div>
+                            
+                            <div className="job-description">
+                                <ul>
+                                    <li>
+                                        Automated data verification processes, ensuring data integrity and compatibility with database procedures
+                                    </li>
+                                    <li>
+                                        Utilized SQL and Python to identify data related issues that resulted in bugs on clients’ UI or services
+                                    </li>
+                                    <li>
+                                        Rewrote SQL stored procedures to enhance existing data pipelines and loading processes
+                                    </li>
+                                    <li>
+                                        Acted as a technical liaison between client support, project managers, software engineers, and data engineers
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div className="dates">
+                                <span>October 2021 - February 2023</span>
                         </div>
                     </div>
 
