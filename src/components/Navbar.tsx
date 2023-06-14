@@ -30,7 +30,7 @@ function Navbar() {
                     bgColor="black"/>
                     <SocialIcon url="https://github.com/simontbui" target="_blank" style={socialSize}
                     bgColor="black"/>
-                    <SocialIcon url="mailto:simontb@uci.edu" network="email" style={socialSize}
+                    <SocialIcon url="mailto:stbui.ca@gmail.com" network="email" style={socialSize}
                     bgColor="black"/>
                 </div>
             </nav>

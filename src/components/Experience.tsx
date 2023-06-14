@@ -10,56 +10,36 @@ function Experience() {
                     <div className="card">
                         <div className="job">
                             <div className="job-title">
-                                <h3>SOFTWARE ENGINEER</h3>
+                                <h3>ANALYST (SOFTWARE ENGINEERING & SUPPORT)</h3>
                                 <h3 className="companies">TRANSACTION DATA SYSTEMS</h3>
                             </div>
                             
                             <div className="job-description">
                                 <ul>
                                     <li>
-                                        Maintained and developed a .NET(C#) product responsible for ingesting, processing, and transmitting vaccination data to 
-                                        over 50 state government agencies
+                                        Improved the maintainability of a React product by replacing hard coded data with GraphQL queries, proactively reducing the amount of client-reported UI bugs when Medicare routinely updates their medical codes
                                     </li>
                                     <li>
-                                        Debugged and implemented a fix for a production issue affecting over 10% new user accounts per day
+                                        Developed and maintained a .NET(C#) MVC responsible for ingesting, processing, and transmitting data to over
+                                        50 state government agencies
                                     </li>
                                     <li>
-                                        Improved the maintainability of frontend React code by replacing hard coded data with GraphQL queries
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div className="dates">
-                                <span>February 2023 - Present</span>
-                        </div>
-                    </div>
-
-                    <div className="card">
-                        <div className="job">
-                            <div className="job-title">
-                                <h3>SOFTWARE SUPPORT ENGINEER</h3>
-                                <h3 className="companies">TRANSACTION DATA SYSTEMS</h3>
-                            </div>
-                            
-                            <div className="job-description">
-                                <ul>
-                                    <li>
-                                        Automated data verification processes, ensuring data integrity and compatibility with database procedures
+                                        Debugged and implemented a fix for a production issue affecting over 10% of new user profiles per day
                                     </li>
                                     <li>
-                                        Utilized SQL and Python to identify data related issues that resulted in bugs on clients’ UI or services
+                                        Implemented a database enhancement to improve the accuracy of data ingestion and API transmission affecting a national retail chain of ~600 stores
+                                    </li>
+                                    <li>
+                                        Automated data verification processes with Python, ensuring data integrity and reducing database errors
                                     </li>
                                     <li>
                                         Rewrote SQL stored procedures to enhance existing data pipelines and loading processes
                                     </li>
-                                    <li>
-                                        Acted as a technical liaison between client support, project managers, software engineers, and data engineers
-                                    </li>
                                 </ul>
                             </div>
                         </div>
                         <div className="dates">
-                                <span>October 2021 - February 2023</span>
+                                <span>October 2021 - Present</span>
                         </div>
                     </div>
 
