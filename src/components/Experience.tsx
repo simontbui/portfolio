@@ -10,7 +10,7 @@ function Experience() {
                     <div className="card">
                         <div className="job">
                             <div className="job-title">
-                                <h3>ANALYST (SOFTWARE ENGINEERING & SUPPORT)</h3>
+                                <h3>ANALYST (SOFTWARE ENGINEERING)</h3>
                                 <h3 className="companies">TRANSACTION DATA SYSTEMS</h3>
                             </div>
                             
@@ -20,7 +20,7 @@ function Experience() {
                                         Improved the maintainability of a React product by replacing hard coded data with GraphQL queries, proactively reducing the amount of client-reported UI bugs when Medicare routinely updates their medical codes
                                     </li>
                                     <li>
-                                        Developed and maintained a .NET(C#) MVC responsible for ingesting, processing, and transmitting data to over
+                                        Developed and maintained a .NET(C#) MVC project responsible for ingesting, processing, and transmitting data to over
                                         50 state government agencies
                                     </li>
                                     <li>

@@ -19,10 +19,13 @@ function Projects() {
 
                     <div className="card">
                         <div className="project-item">
-                            <h3>MEETING SCHEDULE TRACKER (IN PROGRESS)</h3>
-                            <h3 className="tech-used">TECHNOLOGIES: TypeScript, Node.js, Express, MongoDB (NoSQL), React, HTML, CSS</h3>
+                            <h3>PTO TRACKER (IN PROGRESS)</h3>
+                            <h3 className="tech-used">TECHNOLOGIES: TypeScript, Docker, C#, .NET, Python, Django, NodeJS, Express, React, HTML, CSS, PostgreSQL</h3>
                             <p className="project-description">
-                                Ever felt frustrated trying to schedule a meeting that fits everyone's availabilities? This is an issue I've often run into. I love solutions such as the calendar interface on Microsoft Teams when it comes to displaying and scheduling meetings. The caveat is that it's tedious to schedule a meeting that lines up with the availabilities of 5 other people in 3 different timezones. I created an app that allows a user to create, schedule, and view others' meeting times. Now, if you want to schedule a meeting on Wednesday with Alice and John, you can check their schedule on the calendar as well.
+                                I appreciate the organization that comes out of calendar products. This project implements a calendar website that shows other users' time off events on a monthly calendar. Want to see what days in a month a specific co-worker is taking off? How about which employees in the accounting team are off in December? And which days are they off? This web app does all those things and more. 
+                            </p>
+                            <p className="project-description">
+                                As a side note, I built the backend server three times using Django, .NET, and Express. This was more of a learning exercise than a practical approach. I wanted to dive into 3 different approaches and see what types of roadblocks I run into with each.
                             </p>
                         </div>
                     </div>
