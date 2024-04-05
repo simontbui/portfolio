@@ -43,7 +43,7 @@ function Experience() {
                     <div className="card">
                         <div className="job">
                             <div className="job-title">
-                                <h3>Data Operations Analyst</h3>
+                                <h3>DATA OPERATIONS ANALYST</h3>
                                 <h3 className="companies">TRANSACTION DATA SYSTEMS</h3>
                             </div>
                             
