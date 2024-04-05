@@ -26,11 +26,11 @@ function Experience() {
                                         Built a new billing product using a microservices architecture with integrations to two different core applications
                                     </li>
                                     <li>
-                                        Acted as a subject matter expert for a process that interfaced with 3 different engineering teams and various
+                                        Acted as a subject matter expert for a process that interfaced with 3 different engineering teams and numerous
                                         non-technical teams across the company
                                     </li>
                                     <li>
-                                        Collaborated with various VPs and managers to design various features and products
+                                        Collaborated with various VPs and managers to design multiple features and products
                                     </li>
                                 </ul>
                             </div>
