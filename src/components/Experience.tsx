@@ -17,29 +17,49 @@ function Experience() {
                             <div className="job-description">
                                 <ul>
                                     <li>
-                                        Improved the maintainability of a React product by replacing hard coded data with GraphQL queries, proactively reducing the amount of client-reported UI bugs when Medicare routinely updates their medical codes
+                                        Developed and maintained a project (React.js, SQL Server, C#) responsible for ingesting, processing, and transmitting 15M annual records to over 50 state government agencies via numerous REST API integrations
                                     </li>
                                     <li>
-                                        Developed and maintained a .NET(C#) MVC project responsible for ingesting, processing, and transmitting data to over
-                                        50 state government agencies
+                                        Prevented cancellation by a F100 client by resolving a bug that went unresolved for nearly a year
                                     </li>
                                     <li>
-                                        Debugged and implemented a fix for a production issue affecting over 10% of new user profiles per day
+                                        Built a new billing product using a microservices architecture with integrations to two different core applications
                                     </li>
                                     <li>
-                                        Implemented a database enhancement to improve the accuracy of data ingestion and API transmission affecting a national retail chain of ~600 stores
+                                        Acted as a subject matter expert for a process that interfaced with 3 different engineering teams and various
+                                        non-technical teams across the company
                                     </li>
                                     <li>
-                                        Automated data verification processes with Python, ensuring data integrity and reducing database errors
-                                    </li>
-                                    <li>
-                                        Rewrote SQL stored procedures to enhance existing data pipelines and loading processes
+                                        Collaborated with various VPs and managers to design various features and products
                                     </li>
                                 </ul>
                             </div>
                         </div>
                         <div className="dates">
-                                <span>October 2021 - Present</span>
+                                <span>March 2023 - Present</span>
+                        </div>
+                    </div>
+
+                    <div className="card">
+                        <div className="job">
+                            <div className="job-title">
+                                <h3>Data Operations Analyst</h3>
+                                <h3 className="companies">TRANSACTION DATA SYSTEMS</h3>
+                            </div>
+                            
+                            <div className="job-description">
+                                <ul>
+                                    <li>
+                                        Created a UI that provides custom SQL querying and visualization of database diagnostics, improving the efficiency of database monitoring by internal teams
+                                    </li>
+                                    <li>
+                                        Reduced database ingestion errors by 70% by writing scripts to automate data verification procedures
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div className="dates">
+                                <span>October 2021 - March 2023</span>
                         </div>
                     </div>
 
