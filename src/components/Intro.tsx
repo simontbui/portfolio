@@ -13,9 +13,10 @@ function Intro() {
                         <SocialIcon url="https://github.com/simontbui" target="_blank" style={socialSize}/>
                         <SocialIcon url="mailto:stbui.ca@gmail.com" network="email" target="_blank" style={socialSize}/>
                     </div>
-                    <p>Hello! I'm interested in developing and improving useful systems as well as tackling the intricacies that come along the way. Feel free to reach out if you're interested in career talks or food and cooking videos on YouTube!</p>
-
-                    <a className="resume" href="/SimonBuiResume.pdf" target="_blank">View Resume</a>
+                    {/* <p>Hello! I'm interested in developing and improving useful systems as well as tackling the intricacies that come along the way. Feel free to reach out if you're interested in career talks or food and cooking videos on YouTube!</p> */}
+                    <p>
+                        <a className="resume" href="/SimonBuiResume.pdf" target="_blank">View Resume</a>
+                    </p>
                 </div>
             </section>
         </>

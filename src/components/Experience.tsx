@@ -11,26 +11,23 @@ function Experience() {
                         <div className="job">
                             <div className="job-title">
                                 <h3>SOFTWARE ENGINEER</h3>
-                                <h3 className="companies">TRANSACTION DATA SYSTEMS</h3>
+                                <h3 className="companies">OUTCOMES</h3>
                             </div>
                             
                             <div className="job-description">
                                 <ul>
                                     <li>
-                                        Developed and maintained a project (React.js, SQL Server, C#) responsible for ingesting, processing, and transmitting 15M annual records to over 50 state government agencies via numerous REST API integrations
+                                        Developed and maintained a project (.NET, C#, Microsoft SQL Server) responsible for ingesting, processing, and transmitting 15M annual records to over 50 state government agencies
                                     </li>
                                     <li>
                                         Prevented cancellation by a F100 client by resolving a bug that went unresolved for nearly a year
                                     </li>
                                     <li>
-                                        Built a new billing product using a microservices architecture with integrations to two different core applications
+                                        Built a new billing product (JavaScript, React, C#) using a microservices architecture with integrations to two different core applications
                                     </li>
                                     <li>
                                         Acted as a subject matter expert for a process that interfaced with 3 different engineering teams and numerous
                                         non-technical teams across the company
-                                    </li>
-                                    <li>
-                                        Collaborated with various VPs and managers to design multiple features and products
                                     </li>
                                 </ul>
                             </div>
@@ -44,13 +41,13 @@ function Experience() {
                         <div className="job">
                             <div className="job-title">
                                 <h3>DATA OPERATIONS ANALYST</h3>
-                                <h3 className="companies">TRANSACTION DATA SYSTEMS</h3>
+                                <h3 className="companies">OUTCOMES</h3>
                             </div>
                             
                             <div className="job-description">
                                 <ul>
                                     <li>
-                                        Created a UI that provides custom SQL querying and visualization of database diagnostics, improving the efficiency of database monitoring by internal teams
+                                        Created a UI that provides custom SQL querying and visualization of database diagnostics, improving the efficiency of database monitoring by internal staff
                                     </li>
                                     <li>
                                         Reduced database ingestion errors by 70% by writing scripts to automate data verification procedures
