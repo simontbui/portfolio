@@ -20,7 +20,7 @@ function Experience() {
                                         Developed and maintained a project (.NET, C#, Microsoft SQL Server) responsible for ingesting, processing, and transmitting 15M annual records to over 50 state government agencies
                                     </li>
                                     <li>
-                                        Prevented cancellation by a F100 client by resolving a bug that went unresolved for nearly a year
+                                        Prevented cancellation by a F100 client by resolving a database bug that went unresolved for nearly a year
                                     </li>
                                     <li>
                                         Built a new billing product (JavaScript, React, C#) using a microservices architecture with integrations to two different core applications

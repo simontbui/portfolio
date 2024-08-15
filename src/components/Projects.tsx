@@ -48,9 +48,9 @@ function Projects() {
                                 Online games can be expensive to play. I spent some time trying out a new game earlier in 2022 where many players were spending hundreds to thousands of dollars within the first month. I've met some that spent over $10k USD buying items that were often a poor choice. Many of my friends would frequently ask me to calculate which combinations of items would be better, and by how much. Instead of doing this manually everytime, I created a website that automated the math for them.
                             </p>
                             <p className="project-description">
-                                Consider the scenario in the demo screenshot below. Let's say you have two options where option #1 costs $200 and option #2 costs $201. You might find it worthwhile to spend that extra $1 on option #2 if you found out that option #2 made your character 9% better.
+                                Consider the scenario in the demo image below. We can see that option #2 is over 22% better than the first choice. It would be a shame if a player spent a lot of money on the first option thinking it was better.
                             </p>
-                            <img className="project-img" src="/trixioncalculator.JPG" alt="Broken"></img>
+                            <img className="project-img" src="/trixion-calculator.jpg" alt="Broken"></img>
                         </div>
                     </div>
                 </div>
