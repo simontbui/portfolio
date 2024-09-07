@@ -12,7 +12,7 @@ function Projects() {
                             <h3>SIMPLY SHOP (IN PROGRESS)</h3>
                             <h3 className="tech-used">TECHNOLOGIES: .NET, C#, Docker, PostgreSQL, JavaScript, React, HTML, CSS</h3>
                             <p className="project-description">
-                                I always wonder if I could be saving money by deciding to grocery shop at another store. Maybe if I went to Aldi today instead of Stater Bros., I would saved $20-30. 
+                                I always wonder if I could be saving money by deciding to grocery shop at another store. Maybe if I went to Aldi today instead of Stater Bros., I would have saved $20. 
                             </p>
                             <p className="project-description">
                                 This full-stack app seeks to remediate that. It's a one stop shop site displaying analytics for your local grocery stores. Curious on what the average price of eggs are in your city? You'll be able to find out the average price as well as the typical price at every nearby grocery store. 
