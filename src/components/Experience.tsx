@@ -29,15 +29,21 @@ function Experience() {
                                         Acted as a subject matter expert for a process that interfaced with 3 different engineering teams and numerous
                                         non-technical teams across the company
                                     </li>
+                                    <li>
+                                        Created a UI that provides custom SQL querying and visualization of database diagnostics, improving the efficiency of database monitoring by internal staff
+                                    </li>
+                                    <li>
+                                        Reduced database ingestion errors by 70% by writing scripts to automate data verification procedures
+                                    </li>
                                 </ul>
                             </div>
                         </div>
                         <div className="dates">
-                                <span>March 2023 - May 2024</span>
+                                <span>October 2021 - May 2024</span>
                         </div>
                     </div>
 
-                    <div className="card">
+                    {/* <div className="card">
                         <div className="job">
                             <div className="job-title">
                                 <h3>DATA OPERATIONS ANALYST</h3>
@@ -58,7 +64,7 @@ function Experience() {
                         <div className="dates">
                                 <span>October 2021 - March 2023</span>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className="card">
                         <div className="job">
