@@ -34,7 +34,7 @@ function Experience() {
                             </div>
                         </div>
                         <div className="dates">
-                                <span>October 2021 - May 2024</span>
+                                <span>October 2024 - Present</span>
                         </div>
                     </div>
 
