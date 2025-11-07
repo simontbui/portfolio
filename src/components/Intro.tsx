@@ -1,4 +1,5 @@
 import { SocialIcon } from "react-social-icons"
+import React from 'react';
 
 function Intro() {
     const socialSize = {height: 40, width: 40, margin: 5}

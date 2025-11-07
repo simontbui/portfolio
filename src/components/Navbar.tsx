@@ -1,5 +1,6 @@
 import LI_pic from "../img/LI_pic.jpg"
 import { SocialIcon } from "react-social-icons"
+import React from 'react';
 
 function Navbar() {
     const socialSize = {height: 25, width: 25, margin: 5}
